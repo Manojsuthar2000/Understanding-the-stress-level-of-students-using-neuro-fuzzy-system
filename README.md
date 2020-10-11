@@ -7,3 +7,4 @@ To run it plz follow this steps:
    In site-packages folder, if u already have anfis their plz replace it with this one
    
 by uploading in colab.research.google.com , you will be able to open it but you will not be able to run it 
+Because the changes that i did are different from what you told in lecture.
