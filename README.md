@@ -5,3 +5,5 @@ To run it plz follow this steps:
 2. copy paste whole anfis folder at this location:-
    C:\Users\Mahipal\Anaconda3\Lib\site-packages\
    In site-packages folder, if u already have anfis their plz replace it with this one
+   
+by uploading in colab.research.google.com , you will be able to open it but you will not be able to run it 
